@@ -1,0 +1,2 @@
+If I wanted to integrate the display of the clip name as well as the creation date and creator information,
+what would I do? reading in the code I did not find the tags to enable, but in the twitch api the command should be "id"
